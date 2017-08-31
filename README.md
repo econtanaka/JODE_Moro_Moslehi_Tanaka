@@ -6,7 +6,8 @@ There are two subfolders, "cross_country_data" and "stata," in this repository.
 ## 1. The "cross_country_data" subfolder
 This subfolder contains an Excel sheet ("marriage.xlsx") a Stata data file ("marriage.dta") that has population data by marital status for all the OECD countries in our sample from 1900 to 2000.
 
-- The data in the "marriage.xls" and "marriage.dta" are the same, and are from each country's census records.
+- The data in the "marriage.xls" and "marriage.dta" are the same.
+- The data are from each country's census records.
 
 In the "marriage.xls" and the "marriage.dta" files,
 - the "country" column includes country's name,
@@ -52,4 +53,4 @@ This subfolder contains the data and stata codes used for all the results in the
 - do $workplace/code_06_flow_rate.do
 - do $workplace/code_07_regression.do
 
-For any questions please contact the author at s.tanaka.0509@gmail.com.
+If you have any question, please contact the authors by sending an e-mail to s.tanaka.0509@gmail.com.
