@@ -39,15 +39,15 @@ In the "marriage.xls" and the "marriage.dta" files,
 - If you run the "main.do" file, it will run the following eight stata do-files subsequently to reproduce all the results.
 
 ## Setup
-do $workplace/setup.do (this do-file will produce "marriage.xls" in the "marriage" subfolder)
+- do $workplace/setup.do (this do-file will produce "marriage.xls" in the "marriage" subfolder)
 
 ## Main Analysis
-do $workplace/code_01_calc_marriage.do
-do $workplace/code_02_graph_countries.do
-do $workplace/code_03_graph_cubic.do
-do $workplace/code_04_statistics.do
-do $workplace/code_05_age_distribution.do
-do $workplace/code_06_flow_rate.do
-do $workplace/code_07_regression.do
+- do $workplace/code_01_calc_marriage.do
+- do $workplace/code_02_graph_countries.do
+- do $workplace/code_03_graph_cubic.do
+- do $workplace/code_04_statistics.do
+- do $workplace/code_05_age_distribution.do
+- do $workplace/code_06_flow_rate.do
+- do $workplace/code_07_regression.do
 
 For any questions please contact the author at s.tanaka.0509@gmail.com.
