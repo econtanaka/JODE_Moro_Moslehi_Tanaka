@@ -3,7 +3,7 @@ This repository contains the cross-country data and stata codes for the paper, "
 
 There are two subfolders, "cross_country_data" and "stata," in this repository.
 
-## (1) The "cross_country_data" subfolder
+## 1. The "cross_country_data" subfolder
 This subfolder contains an Excel sheet ("marriage.xlsx") a Stata data file ("marriage.dta") that has population data by marital status for all the OECD countries in our sample from 1900 to 2000.
 
 - The data in the "marriage.xls" and "marriage.dta" are the same, and are from each country's census records.
@@ -34,7 +34,7 @@ In the "marriage.xls" and the "marriage.dta" files,
 - the "registered_prev_f" column shows the total number of females who are previously in a consensual union for that age group (see Appendix A in the paper),
 - the "unknown_f" column shows the total number of females whose marital status is unknown for that age group.
 
-## (2) The "stata" subfolder
+## 2. The "stata" subfolder
 This subfolder contains the data and stata codes used for all the results in the paper.
 
 - To run the stata program. Open "main.do" file in this subfolder, and set up the path correctly.
