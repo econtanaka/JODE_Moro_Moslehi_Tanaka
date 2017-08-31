@@ -1,5 +1,5 @@
 # JODE_Moro_Moslehi_Tanaka
-This repository contains the cross-country data and stata codes for the paper "Marriage and Economic Development in the Twentieth Century" by Alessio Moro, Solmaz Moslehi, and Satoshi Tanaka, published in the Journal of Demographic Economics.
+This repository contains the cross-country data and stata codes for the paper, "Marriage and Economic Development in the Twentieth Century," by Alessio Moro, Solmaz Moslehi, and Satoshi Tanaka, published in the Journal of Demographic Economics.
 
 There are two subfolders, "cross_country_data" and "stata," in this repository.
 
@@ -21,8 +21,8 @@ In the "marriage.xls" and the "marriage.dta" files,
 - the "divorced_m" column shows the total number of divorced males for that age group,
 - the "separated_m" column shows the total number of separated males for that age group,
 - the "consensual_m" column shows the total number of males who are in a consensual union for that age group,
-- the "married_prev_m" column shows the total number of males who are previously married for that age group (the sum of the divorced and the widowed males. see Appendix A),
-- the "registered_prev_m" column shows the total number of males who are previously in a consensual union for that age group (see Appendix A),
+- the "married_prev_m" column shows the total number of males who are previously married for that age group (the sum of the divorced and the widowed males. see Appendix A in the paper),
+- the "registered_prev_m" column shows the total number of males who are previously in a consensual union for that age group (see Appendix A in the paper),
 - the "unknown_m" column shows the total number of males whose marital status is unknown for that age group,
 - the "married_f" column shows the total number of married females for that age group,
 - the "single_f" column shows the total number of never-married females for that age group,
@@ -30,8 +30,8 @@ In the "marriage.xls" and the "marriage.dta" files,
 - the "divorced_f" column shows the total number of divorced females for that age group,
 - the "separated_f" column shows the total number of separated females for that age group,
 - the "consensual_f" column shows the total number of females who are in a consensual union for that age group,
-- the "married_prev_f" column shows the total number of females who are previously married for that age group (the sum of the divorced and the widowed females. see Appendix A),
-- the "registered_prev_f" column shows the total number of females who are previously in a consensual union for that age group (see Appendix A),
+- the "married_prev_f" column shows the total number of females who are previously married for that age group (the sum of the divorced and the widowed females. see Appendix A in the paper),
+- the "registered_prev_f" column shows the total number of females who are previously in a consensual union for that age group (see Appendix A in the paper),
 - the "unknown_f" column shows the total number of females whose marital status is unknown for that age group.
 
 ## (2) The "stata" subfolder
