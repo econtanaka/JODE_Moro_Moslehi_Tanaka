@@ -37,7 +37,7 @@ In the "marriage.xls" and the "marriage.dta" files,
 ## (2) The "stata" subfolder
 This subfolder contains the data and stata codes used for all the results in the paper.
 
-- To run the stata program. Open "main.do" file in this folder, and set the path.
+- To run the stata program. Open "main.do" file in this subfolder, and set up the path correctly.
 - If you run the "main.do" file, it will run the following eight stata do-files subsequently to reproduce all the results.
 
 ### Setup
