@@ -53,4 +53,4 @@ This subfolder contains the data and stata codes used for all the results in the
 - do $workplace/code_06_flow_rate.do
 - do $workplace/code_07_regression.do
 
-If you have any question, please contact the authors by sending an e-mail to s.tanaka@uq.edu.au.
+If you have any question, please contact the authors by sending an e-mail to <s.tanaka.0509@gmail.com>.
