@@ -1,4 +1,4 @@
-# JODE_Moro_Moslehi_Tanaka
+# jode_moro_moslehi_tanaka
 This repository contains the cross-country data and stata codes for the paper, "Marriage and Economic Development in the Twentieth Century," by Alessio Moro, Solmaz Moslehi, and Satoshi Tanaka, published in the Journal of Demographic Economics.
 
 There are two subfolders, "cross_country_data" and "stata," in this repository.
